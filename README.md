@@ -12,7 +12,7 @@ Zend Framework Website, v2.0
 
 This is the next incarnation of the Zend Framework website, written using ZF2.
 
-Installation
+Installation Process
 ------------
 
 First step is grabbing dependencies. Run the following:
